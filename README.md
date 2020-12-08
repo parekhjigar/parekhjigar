@@ -4,6 +4,8 @@
 
 - 🔭 I’m currently working on Full Stack Development
 - 🌱 I’m currently learning GraphQL
+- 💬 Ask me about: React, Node
+- 📫 How to reach me: hello@parekhjigar.com
 
 
 <!--
