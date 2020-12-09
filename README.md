@@ -4,6 +4,8 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
+**A strong full stack developer with a Master of Information Technology specialized in Intelligent Systems. Skilled in Deep Learning, Computer Vision and NLP.**
+
 - 🔭 I’m currently working on Full Stack Development
 - 🌱 I’m currently learning GraphQL
 - 💬 Ask me about: React, Node
