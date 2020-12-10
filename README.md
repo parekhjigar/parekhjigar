@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning GraphQL
 - 💬 Ask me about: React, Node
 - 📫 How to reach me: hello@parekhjigar.com
+- 🔗 Portfolio website: https://parekhjigar.com
 
 
 <!--
