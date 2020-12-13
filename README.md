@@ -6,7 +6,7 @@
 
 **A strong full stack developer with a Master of Information Technology specialized in Intelligent Systems. Skilled in Deep Learning, Computer Vision and NLP.**
 
-- 🔭 I’m currently working on Full Stack Development
+- 🔭 I’m currently working on Full Stack Development for Book an Artist
 - 🌱 I’m currently learning GraphQL
 - 💬 Ask me about: React, Node
 - 📫 How to reach me: hello@parekhjigar.com
@@ -32,5 +32,3 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-
