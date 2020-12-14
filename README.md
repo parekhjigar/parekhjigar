@@ -6,7 +6,7 @@
 
 **A strong full stack developer with a Master of Information Technology specialized in Intelligent Systems. Skilled in Deep Learning, Computer Vision and NLP.**
 
-- 🔭 I’m currently working on Full Stack Development for Book an Artist
+- 🔭 I’m currently working as Software Engineer for Book an Artist - http://bookanartist.co
 - 🌱 I’m currently learning GraphQL
 - 💬 Ask me about: React, Node
 - 📫 How to reach me: hello@parekhjigar.com
