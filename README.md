@@ -31,6 +31,10 @@
 
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=TensorFlow)
 ![Keras](https://img.shields.io/badge/-Keras-black?style=flat-square&logo=Keras)
+![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=Opencv)
+![Yolo](https://img.shields.io/badge/-Yolo-black?style=flat-square&logo=Yolo)
+![RCNN](https://img.shields.io/badge/-RCNN-black?style=flat-square&logo=RCNN)
+
 
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
